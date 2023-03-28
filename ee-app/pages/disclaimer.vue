@@ -10,16 +10,16 @@
         </div>
         <h1>Entropia Estate Disclaimer</h1>
         <section class="textContent">
-          <p>We are doing our best to prepare the content of this site. However, EntropiaMarket cannot warranty the
+          <p>We are doing our best to prepare the content of this site. However, EntropiaEstate cannot warranty the
             expressions and suggestions of the contents, as well as its accuracy. In addition, to the extent
-            permitted by the law, EntropiaMarket shall not be responsible for any losses and/or damages due to the
+            permitted by the law, EntropiaEstate shall not be responsible for any losses and/or damages due to the
             usage of the information on our website.</p>
 
           <p>By using our website, you hereby consent to our disclaimer and agree to its terms.</p>
 
           <p>The links contained on our website may lead to external sites, which are provided for convenience only.
             Any information or statements that appeared in these sites are not sponsored, endorsed, or otherwise
-            approved by EntropiaMarket. For these external sites, EntropiaMarket cannot be held liable for the
+            approved by EntropiaEstate. For these external sites, EntropiaEstate cannot be held liable for the
             availability of, or the content located on or through it. Plus, any losses or damages occurred from
             using these contents or the internet generally.</p>
           <p>We are not associated with Entropia Estate Society in Entropia Universe.</p>

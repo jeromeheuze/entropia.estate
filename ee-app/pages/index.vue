@@ -151,8 +151,8 @@
             <p>Entropia Universe is a Massive Multiplayer Online video game designed and maintained by Swedish software company MindArk. It was first released in 2003. Entropia uses micropayments business model where players can exchange currency into in-game currency called PED. The exchange rate has been fixed since the beginning at the rate of 10 PED:$1 USD</p>
           </section>
           <section class="textContent" style="padding-bottom: 3rem;">
-            <h2 style="font-size: 2rem;padding-bottom: .5rem;">What do we provide at EntropiaMarket?</h2>
-            <p>At EntropiaMarket we provide a reference for understanding the historical worth of Estates deeds that are available in-game. We capture the prices in PED that auction issuers are willing to sell their digital properties. We also provide virtual visits of Properties for your viewing before buying or bidding. Know before buying the actual value of an estate.</p>
+            <h2 style="font-size: 2rem;padding-bottom: .5rem;">What do we provide at EntropiaEstate?</h2>
+            <p>At EntropiaEstate we provide a reference for understanding the historical worth of Estates deeds that are available in-game. We capture the prices in PED that auction issuers are willing to sell their digital properties. We also provide virtual visits of Properties for your viewing before buying or bidding. Know before buying the actual value of an estate.</p>
           </section>
           <section class="textContent" style="padding-bottom: 3rem;">
             <h2 style="font-size: 2rem;padding-bottom: .5rem;">What is an Estate deed in Entropia Universe?</h2>
