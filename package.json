@@ -1,0 +1,19 @@
+{
+  "name": "entropia.estate",
+  "version": "1.0.0",
+  "description": "entropia.estate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromeheuze/entropia.estate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromeheuze/entropia.estate/issues"
+  },
+  "homepage": "https://github.com/jeromeheuze/entropia.estate#readme"
+}
