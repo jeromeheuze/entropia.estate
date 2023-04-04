@@ -139,7 +139,7 @@
                   </tbody>
                 </table>
                 <div class="cta" style="text-align: center;">
-                  <nuxt-link to="/deeds-condos-shops-estates-2022/" class="btn-em primary" data-name="Shops">View All 2022 Listings</nuxt-link>
+                  <nuxt-link to="/deeds-condos-shops-estates-2023/" class="btn-em primary" data-name="Shops">View All 2023 Listings</nuxt-link>
                 </div>
                 <div class="disclaimer"><small>All recorded data is manual and we cannot verified if each estates sold for that price. Use this information at your own risk when dealing with trades outside of Auction House.</small></div>
               </div>
