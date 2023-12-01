@@ -21,6 +21,7 @@ export default {
             { charset: 'utf-8' },
             { 'http-equiv': 'X-UA-Compatible', content:'IE=edge' },
             { name: 'google-site-verification', content: 't-kfnpdT940U6bR6aIyO65PPSymlNNdaT_UXVDay4Qw' },
+            { name: 'google-adsense-account', content: 'ca-pub-7979199247908074' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
             { hid: 'description', name: 'description', content: 'Market data from auction about Player housing in Entropia Universe. And your first stop for virtual visits of Entropia estates.' },
             // Twitter

@@ -64,9 +64,6 @@
                                         <a href="https://entropiahub.com" target="_blank">Entropia Hub</a>
                                     </li>
                                     <li>
-                                        <a href="https://entropia.events" target="_blank">Entropia Events</a>
-                                    </li>
-                                    <li>
                                         <a href="https://foma-asteroid.com" target="_blank">FOMA Asteroid</a>
                                     </li>
                                     <li>
