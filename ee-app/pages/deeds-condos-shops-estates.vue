@@ -54,7 +54,12 @@
                   <tr style="color: aliceblue;" v-for='estate in estates' :key="estate.id">
                     <td v-if="searchEstates(estate.property_name)"><a :href="getEstateUrl(estate.property_name)">{{ estate.property_name }}</a></td>
                     <td v-if="!searchEstates(estate.property_name)">{{ estate.property_name }}</td>
-                    <td><nuxt-link :to="estate.planet | planet">{{ estate.planet }}</nuxt-link></td>
+                    <td v-if="(estate.planet !== 'Next Island' && estate.planet !== 'Toulan' && estate.planet !== 'DSEC9')">
+                      <nuxt-link :to="estate.planet | planet">{{ estate.planet }}</nuxt-link>
+                    </td>
+                    <td v-if="estate.planet === 'Next Island'">{{ estate.planet }}</td>
+                    <td v-if="estate.planet === 'Toulan'"><nuxt-link to="/planet-toulan/">Planet Toulan</nuxt-link></td>
+                    <td v-if="estate.planet === 'DSEC9'">DSEC9</td>
                     <td>{{ estate.bid_price | ped }} PED</td>
                     <td>{{ estate.buyout_price | ped }} PED</td>
                     <td>{{ estate.date_end }}</td>
