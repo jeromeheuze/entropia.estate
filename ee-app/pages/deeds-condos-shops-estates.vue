@@ -11,7 +11,8 @@
           <nuxt-link to="/deeds-condos-shops-estates/">Estate Deeds 2020</nuxt-link> <em class="bc-next"></em>
           <nuxt-link to="/deeds-condos-shops-estates-2021/">Estate Deeds 2021</nuxt-link>  <em class="bc-next"></em>
           <nuxt-link to="/deeds-condos-shops-estates-2022/">Estate Deeds 2022</nuxt-link>  <em class="bc-next"></em>
-          <nuxt-link to="/deeds-condos-shops-estates-2023/">Estate Deeds 2023</nuxt-link>
+          <nuxt-link to="/deeds-condos-shops-estates-2023/">Estate Deeds 2023</nuxt-link>  <em class="bc-next"></em>
+          <nuxt-link to="/deeds-condos-shops-estates-2024/">Estate Deeds 2024</nuxt-link>
         </div>
         <h1>Estate Deeds 2020</h1>
         <section class="dataContent">
