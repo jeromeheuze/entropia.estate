@@ -17,18 +17,11 @@
                             <li>
                                 <button role="button" class="btn">Estate Deeds</button>
                                 <ul>
-                                    <li>
-                                        <nuxt-link to="/deeds-condos-shops-estates/">Estate Deeds 2020</nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/deeds-condos-shops-estates-2021/">Estate Deeds 2021</nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/deeds-condos-shops-estates-2022/">Estate Deeds 2022</nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/deeds-condos-shops-estates-2023/">Estate Deeds 2023</nuxt-link>
-                                    </li>
+                                  <li><nuxt-link to="/deeds-condos-shops-estates-2024/">Estate Deeds 2024</nuxt-link></li>
+                                  <li><nuxt-link to="/deeds-condos-shops-estates-2023/">Estate Deeds 2023</nuxt-link></li>
+                                  <li><nuxt-link to="/deeds-condos-shops-estates-2022/">Estate Deeds 2022</nuxt-link></li>
+                                  <li><nuxt-link to="/deeds-condos-shops-estates-2021/">Estate Deeds 2021</nuxt-link></li>
+                                  <li><nuxt-link to="/deeds-condos-shops-estates/">Estate Deeds 2020</nuxt-link></li>
                                 </ul>
                             </li>
                             <li>
@@ -54,6 +47,9 @@
                                     </li>
                                     <li>
                                         <nuxt-link to="/next-island/">Visit Next Island</nuxt-link>
+                                    </li>
+                                    <li>
+                                      <nuxt-link to="/rocktopia/">Visit Rocktopia</nuxt-link>
                                     </li>
                                 </ul>
                             </li>

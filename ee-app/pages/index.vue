@@ -13,6 +13,13 @@
 
               <div class="col-xs-12 col-sm-6 col-lg-3">
                 <div class="item-shortcut-cont" style="padding:3rem;">
+                  <nuxt-link to="/deeds-condos-shops-estates-2024/" class="item-icons-link" title="View all Estate Deeds auctions">
+                    <img src="/img/icons/deeds_icon.png" class="item-icons" alt="View all Estate Deeds auctions">
+                    <span>Estate Deeds 2024</span></nuxt-link>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-lg-3">
+                <div class="item-shortcut-cont" style="padding:3rem;">
                   <nuxt-link to="/deeds-condos-shops-estates-2023/" class="item-icons-link" title="View all Estate Deeds auctions">
                     <img src="/img/icons/deeds_icon.png" class="item-icons" alt="View all Estate Deeds auctions">
                     <span>Estate Deeds 2023</span></nuxt-link>
@@ -133,7 +140,7 @@
                     <td v-if="(estate.planet !== 'Next Island' && estate.planet !== 'Toulan' && estate.planet !== 'DSEC9')">
                       <nuxt-link :to="estate.planet | planet">{{ estate.planet }}</nuxt-link>
                     </td>
-                    <td v-if="estate.planet === 'Next Island'">{{ estate.planet }}</td>
+                    <td v-if="estate.planet === 'Next Island'"><nuxt-link to="/next-island/">Next Island</nuxt-link></td>
                     <td v-if="estate.planet === 'Toulan'"><nuxt-link to="/planet-toulan/">Planet Toulan</nuxt-link></td>
                     <td v-if="estate.planet === 'DSEC9'">DSEC9</td>
                     <td>{{ estate.bid_price | ped }} PED</td>
@@ -143,7 +150,7 @@
                   </tbody>
                 </table>
                 <div class="cta" style="text-align: center;">
-                  <nuxt-link to="/deeds-condos-shops-estates-2023/" class="btn-em primary" data-name="Shops">View All 2023 Listings</nuxt-link>
+                  <nuxt-link to="/deeds-condos-shops-estates-2024/" class="btn-em primary" data-name="Shops">View All 2024 Listings</nuxt-link>
                 </div>
                 <div class="disclaimer"><small>All recorded data is manual and we cannot verified if each estates sold for that price. Use this information at your own risk when dealing with trades outside of Auction House.</small></div>
               </div>
